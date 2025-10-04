@@ -4,9 +4,9 @@ BTS535 - Group 2
 ## Developers
 | Name            | Role           | GitHub                                              | Email                  |
 |-----------------|---------------|-----------------------------------------------------|------------------------|
-| Aydin Arif      | Front-End Dev | [AydinArif](https://github.com/AydinArif)           | aarif24@myseneca.ca    |
+| Aydin Arif      | UX/UI Designer| [AydinArif](https://github.com/AydinArif)           | aarif24@myseneca.ca    |
 | Eren Kilinc     | Back-End Dev  | [EKLNX](https://github.com/EKLNX)                   | eklinc@myseneca.ca     |
-| Mohammed Shaikh | UX/UI Designer| [MohammedSShaikh](https://github.com/MohammedSShaikh) | msshaikh10@myseneca.ca |
+| Mohammed Shaikh | Front-End Dev | [MohammedSShaikh](https://github.com/MohammedSShaikh) | msshaikh10@myseneca.ca |
 
 ## Project Description
 
