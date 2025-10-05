@@ -96,6 +96,6 @@ By agreeing to this Working Agreement, each team member commits to following the
 
 ## **📝 Sign-Off:**
 Team Members:
-#**Eren Kilinc**
-#**Mohammed S. Shaikh**
-#**Aydin Arif**
+# **Eren Kilinc**
+# **Mohammed S. Shaikh**
+# **Aydin Arif**
