@@ -21,3 +21,6 @@ A mobile lists/notes sharing application designed for students, teams, and indiv
 3. User authentication and account management system designed and tested
 4. Core note/list creation and editing functionality designed and tested
 5. Real-time sharing and collaboration features designed and tested
+
+### 2.1 Work Breakdown Structure
+<img width="2529" height="1415" alt="Blank diagram" src="https://github.com/user-attachments/assets/ff5ba7fd-8f4d-4033-b629-f80411aa3cb3" />
