@@ -1,7 +1,6 @@
 # Mobile Lists/Notes Sharing App
 
 ## 1. Introduction
-
 **Version:** 1.0 <br>
 **Project Sponsor:** Mohammed Shaikh, Eren Kilinc, Aydin Arif <br>
 **Project Manager:** Mohammed Shaikh <br>
