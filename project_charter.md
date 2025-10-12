@@ -24,7 +24,7 @@ A mobile lists/notes sharing application designed for students, teams, and indiv
 ### 3.1 Work Breakdown Structure
 <img src="assets/WBS.png" alt="Work Breakdown Structure" width="2529" height="1415">
 
-## 3.2 Requirements Traceability Matrix (RTM)
+### 3.2 Requirements Traceability Matrix (RTM)
 | Req ID | Requirement                                                                 | Del ID | Deliverable                                                     | Owner                        | Status  |
 |---------|------------------------------------------------------------------------------|--------|------------------------------------------------------------------|-------------------------------|----------|
 | REQ01  | Define and document the mobile tech stack, frameworks, and development setup | DEL01  | Fully functional mobile app prototype with note and list creation features | Mobile Lists/Notes Sharing App | Pending |
@@ -39,3 +39,11 @@ A mobile lists/notes sharing application designed for students, teams, and indiv
 3. Real-time sharing and collaboration functionality.
 4. User interface design and documentation.
 5. Deployment scripts and README for project setup.
+
+## 5. Preliminary Budget
+
+## 6. Organization/Stakeholders
+
+## 7. Risks, Assumptions, and Constraints
+
+
