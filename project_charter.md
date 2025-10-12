@@ -2,9 +2,9 @@
 
 ## 1. Introduction
 
-**Version:** 1.0
-**Project Sponsor:** Mohammed Shaikh, Eren Kilinc, Aydin Arif
-**Project Manager:** Mohammed Shaikh
+**Version:** 1.0<br>
+**Project Sponsor:** Mohammed Shaikh, Eren Kilinc, Aydin Arif<br>
+**Project Manager:** Mohammed Shaikh<br>
 October 10th, 2025
 
 The Mobile Lists/Notes Sharing App Project aims to develop a mobile application that allows users to create, manage, and share lists and notes seamlessly across devices. This project supports collaborative and efficient note-taking and task management in different social or work settings. 
@@ -21,3 +21,14 @@ A mobile lists/notes sharing application designed for students, teams, and indiv
 3. User authentication and account management system designed and tested
 4. Core note/list creation and editing functionality designed and tested
 5. Real-time sharing and collaboration features designed and tested
+
+### 2.1 Work Breakdown Structure
+<img width="2529" height="1415" alt="Blank diagram" src="https://github.com/user-attachments/assets/75089aa0-8d12-4bc7-aa3d-4ce24d379731" />
+
+
+## 4. Deliverables
+1. Fully functional mobile app prototype with note and list creation features
+2. User authentication and access control system
+3. Real-time sharing and collaboration functionality
+4. User interface design and documentation
+5. Deployment scripts and README for project setup
