@@ -45,5 +45,3 @@ A mobile lists/notes sharing application designed for students, teams, and indiv
 ## 6. Organization/Stakeholders
 
 ## 7. Risks, Assumptions, and Constraints
-
-
