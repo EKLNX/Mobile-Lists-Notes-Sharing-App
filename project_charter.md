@@ -40,6 +40,10 @@ A mobile lists/notes sharing application designed for students, teams, and indiv
 4. User interface design and documentation.
 5. Deployment scripts and README for project setup.
 
+
+### 4.1 Gantt Chart
+<img width="924" height="1259" alt="image" src="https://github.com/user-attachments/assets/f582279f-8824-4da8-a768-e231d23294a0" />
+
 ## 5. Preliminary Budget
 
 ### 5.1 Personnel Cost Per Sprint
