@@ -41,19 +41,50 @@ A mobile lists/notes sharing application designed for students, teams, and indiv
 5. Deployment scripts and README for project setup.
 
 ## 5. Preliminary Budget
-### Preliminary Budget 
 
-| Category      | Description                          | Quantity/Duration       | Unit Cost   | Total Cost |
-|---------------|--------------------------------------|------------------------|-------------|------------|
-| Personnel     | Back-End Developer (Eren)            | 8 weeks × 10 hrs/week  | $25/hr      | $2,000     |
-| Personnel     | Front-End Developer (Mohammed)       | 8 weeks × 10 hrs/week  | $25/hr      | $2,000     |
-| Personnel     | UX/UI and Databere Designer (Aydin)  | 8 weeks × 10 hrs/week  | $25/hr      | $2,000     |
-| Fixed Costs   | Expo/React Native Tools              | 1 project              | $150        | $150       |
-| Fixed Costs   | Firebase Hosting/DB      | 12 months              | $50/mo      | $600       |
-| Fixed Costs   | Design Software (Figma, etc.)        | 2 months               | $20/mo      | $40        |
-| Fixed Costs   | Misc. (licenses, extras)             | Lump sum               | $60         | $60        |
-| Contingency   | 15% of personnel & fixed costs       | (subtotal $6,850)      | N/A         | $1,000    |
-| **Total**     |                                      |                        |             | **$7,850** |
+### 5.1 Personnel Cost Per Sprint
+
+| Role                         | Rate    | Allocation        | Sprint Cost |
+|------------------------------|---------|-------------------|-------------|
+| Project Manager              | $30/hr  | 3 hrs/sprint      | $90/sprint  |
+| Back-End Developer           | $25/hr  | 10 hrs/sprint     | $250/sprint |
+| Front-End Developer          | $25/hr  | 10 hrs/sprint     | $250/sprint |
+| UI/UX & Database Designer    | $25/hr  | 10 hrs/sprint     | $250/sprint |
+
+Each sprint is 1 week, total 8 sprints.
+
+### 5.2 Total Personnel Cost
+
+- Project Manager: $30/hr × 3 hrs/sprint × 8 sprints = **$720**
+- Back-End Developer: $25/hr × 10 hrs/sprint × 8 sprints = **$2,000**
+- Front-End Developer: $25/hr × 10 hrs/sprint × 8 sprints = **$2,000**
+- UI/UX & Database Designer: $25/hr × 10 hrs/sprint × 8 sprints = **$2,000**
+- **Total Personnel Cost: $6,720**
+
+### 5.3 Fixed Costs
+
+| Item                      | Qtd      | Cost/Item      | Total Cost     |
+|---------------------------|----------|----------------|----------------|
+| Expo/React Native Tools   | 1        | $150/project   | $150           |
+| Firebase Hosting/DB (1 yr)| 12 months| $50/month      | $600           |
+| Design Software (Figma)   | 2 months | $20/month      | $40            |
+| Misc. (licenses, extras)  | Estimate | $60            | $60            |
+| **Total Fixed Costs**     |          |                | **$850**       |
+
+### 5.4 Contingency
+
+- Calculation: 15% of personnel + fixed costs
+- \(0.15 x (6720 + 850) = \$1,163 \)
+- **Contingency Reserve: $1,163**
+
+### 5.5 Total Estimated Cost
+
+| Category      | Total Cost |
+|---------------|------------|
+| Personnel     | $6,720     |
+| Fixed Costs   | $850       |
+| Contingency   | $1,163     |
+| **Grand Total** | **$8,733** |
 
 
 
