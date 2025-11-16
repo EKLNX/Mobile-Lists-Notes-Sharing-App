@@ -52,8 +52,8 @@ A mobile lists/notes sharing application designed for students, teams, and indiv
 | Fixed Costs   | Firebase Hosting/DB      | 12 months              | $50/mo      | $600       |
 | Fixed Costs   | Design Software (Figma, etc.)        | 2 months               | $20/mo      | $40        |
 | Fixed Costs   | Misc. (licenses, extras)             | Lump sum               | $60         | $60        |
-| Contingency   | 15% of personnel & fixed costs       | (subtotal $6,850)      | N/A         | $1,028     |
-| **Total**     |                                      |                        |             | **$7,878** |
+| Contingency   | 15% of personnel & fixed costs       | (subtotal $6,850)      | N/A         | $1,000    |
+| **Total**     |                                      |                        |             | **$7,850** |
 
 
 
