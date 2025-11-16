@@ -41,6 +41,21 @@ A mobile lists/notes sharing application designed for students, teams, and indiv
 5. Deployment scripts and README for project setup.
 
 ## 5. Preliminary Budget
+### Preliminary Budget 
+
+| Category      | Description                          | Quantity/Duration       | Unit Cost   | Total Cost |
+|---------------|--------------------------------------|------------------------|-------------|------------|
+| Personnel     | Back-End Developer (Eren)            | 8 weeks × 10 hrs/week  | $25/hr      | $2,000     |
+| Personnel     | Front-End Developer (Mohammed)       | 8 weeks × 10 hrs/week  | $25/hr      | $2,000     |
+| Personnel     | UX/UI and Databere Designer (Aydin)  | 8 weeks × 10 hrs/week  | $25/hr      | $2,000     |
+| Fixed Costs   | Expo/React Native Tools              | 1 project              | $150        | $150       |
+| Fixed Costs   | Firebase Hosting/DB      | 12 months              | $50/mo      | $600       |
+| Fixed Costs   | Design Software (Figma, etc.)        | 2 months               | $20/mo      | $40        |
+| Fixed Costs   | Misc. (licenses, extras)             | Lump sum               | $60         | $60        |
+| Contingency   | 15% of personnel & fixed costs       | (subtotal $6,850)      | N/A         | $1,028     |
+| **Total**     |                                      |                        |             | **$7,878** |
+
+
 
 ## 6. Organization/Stakeholders
 
