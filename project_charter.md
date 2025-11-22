@@ -95,6 +95,18 @@ Each sprint is 1 week, total 8 sprints.
 ## 6. Organization/Stakeholders
 ### 6.1 Stakeholder Matrix
 
-<img width="924" height="1259" alt="image" src="assets\StakeholderMatrix.png" />
+<img width="800" height="600" alt="image" src="assets\StakeholderMatrix.png" />
+
+### 6.2 Communications Plan 
+
+| Information              | Owner             | Audience                                     | Schedule           | Channel                          |
+|--------------------------|-------------------|----------------------------------------------|--------------------|-----------------------------------|
+| Project Status           | Project Manager   | Project Sponsor                              | Weekly             | Email/Progress Meeting           |
+| Sprint Goals & Progress  | Scrum Master      | App Developers, QA/Testers                   | Each Sprint Start  | Stand-up Meeting, Teams    |
+| Testing Results & Issues | QA Lead           | App Developers, Project Manager              | Per Release        | Test Report, Email               |
+| Feature Demo/Updates     | Dev Lead   | End Users (Beta Testers)           | Major Milestones   | In-app Announcement, Email       |
+| Maintenance Notices      | IT Support        | App Developers, QA/Testers                   | As Needed          | Email, MS Teams                  |
+| Release/Deployment News  | Project Manager   | Project Sponsor, External Advisors, End Users| Prior to Release   | Email, Website, In-app           |
+| Bug/Issue Reporting      | End Users         | QA/Testers, App Developers                   | Continuous         | Feedback Form, Email             |
 
 ## 7. Risks, Assumptions, and Constraints
