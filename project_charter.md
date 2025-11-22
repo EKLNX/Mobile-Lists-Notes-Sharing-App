@@ -96,4 +96,5 @@ Each sprint is 1 week, total 8 sprints.
 ### 6.1 Stakeholder Matrix
 
 <img width="924" height="1259" alt="image" src="assets\StakeholderMatrix.png" />
+
 ## 7. Risks, Assumptions, and Constraints
