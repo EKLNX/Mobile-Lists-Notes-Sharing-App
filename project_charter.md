@@ -110,3 +110,17 @@ Each sprint is 1 week, total 8 sprints.
 | Bug/Issue Reporting      | End Users         | QA/Testers, App Developers                   | Continuous         | Feedback Form, Email             |
 
 ## 7. Risks, Assumptions, and Constraints
+
+- __Privacy Concerns:__ Sensitive user data (personal notes, shared lists, email/ID) might be exposed through misconfiguration or insecure APIs.
+
+- __Data Loss and Sync Issues:__ Bugs in synchronization or conflict resolution could cause users to lose notes or see inconsistent data across devices.
+
+- __Error-prone versioning of notes/lists:__ Improper history or version control for notes would result in users inability to revert accidental changes or deletions, leading to hassles and support requests.
+
+- __Cloud Database Performance:__ Hitting Database quota or experiencing high latency can cause slow loading, failed saves, and temporary write blocks.
+
+- __Authentication / Session Issues__: Problems with login, token expiration, or session handling can block users' access to their data.
+
+- __Inconsistent Offline Behavior:__ The app may behave differently when offline (e.g., allowing edits that never sync, or silently failing actions) confusing users.
+
+- __Concurrency Issues with Collaborative Editing:__ When multiple users edit the same shared list or note at nearly the same time, the lack of a practical conflict strategy can cause unexpected overwrites.
