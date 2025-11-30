@@ -124,3 +124,6 @@ Each sprint is 1 week, total 8 sprints.
 - __Inconsistent Offline Behavior:__ The app may behave differently when offline (e.g., allowing edits that never sync, or silently failing actions) confusing users.
 
 - __Concurrency Issues with Collaborative Editing:__ When multiple users edit the same shared list or note at nearly the same time, the lack of a practical conflict strategy can cause unexpected overwrites.
+
+### Risk Evaluation Chart
+<img width="666" height="612" alt="image" src="https://github.com/user-attachments/assets/6c9d753e-cb4b-4c90-9efd-a90d632d0917" />
